@@ -14,7 +14,6 @@ composer require remysd/fir_builder
 ## Example
 
 ```php
-<?php
 $firBuilder = new \FirBuilder\FirBuilder();
 $firBuilder->setDefaultChar('X');
 
