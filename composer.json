@@ -1,0 +1,18 @@
+{
+    "name": "remysd/fir_builder",
+    "description": "Build a text Fir for you.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RemySd",
+            "email": "remy.sainsard@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FirBuilder\\": "src"
+        }
+    },
+    "require": {}
+}
